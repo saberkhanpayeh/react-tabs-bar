@@ -1,0 +1,18 @@
+.tab-container{
+    background-color: #2094fb;
+    /* padding: 5px; */
+}
+
+.tab-container button{
+ padding: 8px 15px;
+ margin-left: 20px;
+ border: none;
+ font-size: 1.2rem;
+ color: #fff;
+ background: none;
+
+}
+
+.selected{
+    background-color: red;
+}

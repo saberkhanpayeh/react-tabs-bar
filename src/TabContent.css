@@ -1,0 +1,8 @@
+.tab-content{
+    background-color: #1264c7;
+    height: calc(100vh - 220px);
+    padding: 30px 20px;
+}
+ p{
+    margin-top: 20px;
+}
